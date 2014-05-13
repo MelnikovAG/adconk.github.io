@@ -1,4 +1,4 @@
-title:            Site Title
+title:            Conkuer
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
@@ -6,17 +6,17 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Andrew Conklin
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "I am a self-starter, a coder, and an organizer."
+  email:          andrew@routeam.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
+  twitter: adconk
+  facebook: adconk
+  github: adconk
   stackoverflow:
-  linkedin:
-  instagram:
+  linkedin: adconk
+  instagram: adconk
   lastfm:
   tumblr:
   pinterest:
@@ -39,11 +39,11 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+#  - title: Theme Setup
+#    url: /theme-setup/
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
