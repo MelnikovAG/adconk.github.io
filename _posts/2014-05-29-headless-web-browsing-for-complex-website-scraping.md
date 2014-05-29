@@ -318,7 +318,7 @@ Try out your web app via http://127.0.0.1:9393/ or whatever URL it states if dif
 </body>
 {% endhighlight %}
 
-So how do we get this up on Heroku?  The phantomjs 64 bit binary file saved in "/bin" is the key.  You can create a Heroku app as [they recommend here](https://devcenter.heroku.com/articles/creating-apps).  And you can deploy the app as a standard Ruby app through a git push.  If you want to try out the finished product, you can do so here: \\
+So how do we get this up on Heroku?  You can create a Heroku app as [they recommend here](https://devcenter.heroku.com/articles/creating-apps).  The phantomjs 64 bit binary file saved in "/bin" is the key.  This [stackoverflow article](http://stackoverflow.com/questions/12495463/how-to-run-phantomjs-on-heroku) was helpful.  And you can deploy the app as a standard Ruby app through a git push.  If you want to try out the finished product, you can do so here: \\
 [http://mbo.routeam.com/](http://mbo.routeam.com/) \\
 \\
 Try our Studio ID of the day: 3954
