@@ -6,10 +6,6 @@ tagline:
 tags: [resume]
 modified: 7-6-2014
 comments: true
-image:
-  feature: header.jpg
-  #credit:
-  #creditlink:
 ---
 
 Andrew Conklin  
