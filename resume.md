@@ -13,7 +13,7 @@ image:
 ---
 
 Andrew Conklin  
-DC | Los Angeles | Remotely  
+DC | Remotely  
 [andrew@routeam.com](mailto:andrew@routeam.com)  
 202-288-5595  
 <br />
@@ -21,7 +21,7 @@ DC | Los Angeles | Remotely
 
 Interests
 ---------
-To positively and irrevocably impact the world with a diverse set skills honed over time as a software engineer, web developer, technology manager, community activator, and events organizer.
+To positively impact the world with a diverse set of skills honed over time as a software engineer, web developer, technology manager, community activator, and events organizer.
 
 
 Projects
@@ -31,13 +31,14 @@ Projects
     Cofounder and Chief Technologist, 2012 - present  
     -   Built Ruby on Rails CRM application for health and fitness providers  
     -   User authentication with role-based authorization  
-    -   Payments processing through Braintree Payments  
+    -   SSL encrypted payments processing through Braintree Payments API
     -   Mailers through Mailchimp's Mandrill transactional email service
-    -   Production, staging, and development environments  
+    -   Production, staging, and development environments
+    -   Trained and managed 8 technical interns in 1.5 years
 <br>
 *   **[District Karaoke](http://districtkaraoke.com)**  
     Lead Developer, 2014 - present  
-    -   Ruby on Rails voting app maintenance for fast growing multi-city social karaoke league  
+    -   Maintenance for Ruby on Rails app of fast growing multi-city social karaoke league  
     -   Performance and Testing through data parity, scripting, and Heroku addons  
     -   Customized data setup and experience for one-off promotional events  
 <br>
@@ -45,7 +46,7 @@ Projects
     Founder, 2012 - present  
     -   Started DC Nightowls meetup in 2012, currently 1600+ members  
     -   Coordinated over 160 coworking events in the DC area  
-    -   Invited to White House Social Innovation Summit by Meetup CEO Scott Heifernan  
+    -   Participated in White House Social Innovation Summit with Meetup CEO Scott Heifernan  
     -   Held events at The Capitol Complex, major coworking venues, and local businesses  
 <br>
 *   **[Association for Computing Machinery](http://acm.org)**  
@@ -83,8 +84,9 @@ Education
 Skills
 ------
 
-*   Engineering: Ruby on Rails, Git, Web Scraping, PhantomJS
-*   DevOps: SOA, Heroku, PostgreSQL, SSL, DNS, Staging sites
-*   Communications: Minimum Viable Branding, Funnels, Social Media
-*   Design: Napkin drawings, Twitter Bootstrap,
-*   Management: Scrum, LeanUX, Kanban Boards, Building Teams
+*   Proficient: AJAX, Apache, Bash, CSS, Debian, Git, Haml, Heroku, HTML, ImageMagick, JQuery, JavaScript, JSON, Linux, Mandrill, MySQL, OSX, PhantomJS, Passenger, PostgreSQL, Pow, RSpec, Ruby, Ruby on Rails, RVM, Sass, SSL, SQL, SQLite, Vim, XML  
+*   Knowledgable: DHCP, DNS, EC2, FTP, IMAP, Middleman, Postfix, RSS, S3, Stasis, Capistrano  
+*   Used Previously: C, C++, Oracle, Java, JEE, PHP, Perl, POP, Photoshop, Gimp  
+*   Communications: Minimum Viable Branding, Funnels, Social Media  
+*   Design: Napkin drawings, Twitter Bootstrap, Mural.ly  
+*   Management: Scrum, LeanUX, Kanban Model, Building Teams  
