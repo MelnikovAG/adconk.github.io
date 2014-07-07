@@ -2,16 +2,12 @@
 layout: page
 permalink: /resume/
 title: Resume
-tagline:
+tagline: Past works
 tags: [resume]
-modified: 7-6-2014
-comments: true
 ---
-
 Andrew Conklin  
 DC | Remotely  
 [andrew@routeam.com](mailto:andrew@routeam.com)  
-202-288-5595  
 <br />
 <!-- [Download PDF](../andrewconklin-resume.pdf) -->
 
