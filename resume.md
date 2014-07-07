@@ -34,7 +34,7 @@ Projects
     -   SSL encrypted payments processing through Braintree Payments API
     -   Mailers through Mailchimp's Mandrill transactional email service
     -   Production, staging, and development environments
-    -   Trained and managed 8 technical interns in 1.5 years
+    -   Trained and managed 8 technical interns in 1.5 years  
 <br>
 *   **[District Karaoke](http://districtkaraoke.com)**  
     Lead Developer, 2014 - present  
