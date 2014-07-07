@@ -1,23 +1,14 @@
----
-layout: page
-permalink: /resume/
-title: Resume
-tagline: Past works
-tags: [resume]
----
 Andrew Conklin  
-DC | Remotely  
-[andrew@routeam.com](mailto:andrew@routeam.com)  
-<br />
-[Download PDF](../andrewconklin-resume.pdf)
+===============
+Washington, DC | Remotely  
+[andrew@routeam.com](mailto:andrew@routeam.com) | [twitter.com/adconk](http://twitter.com/adconk) | [github.com/adconk](http://github.com/adconk)
 
 Interests
 ---------
 To positively impact the world with a diverse set of skills honed over time as a software engineer, web developer, technology manager, community activator, and events organizer.
 
-
-Projects
---------
+Experience
+----------
 
 *   **[Routeam](http://routeam.com)**  
     Cofounder and Chief Technologist, 2012 - present  
@@ -71,7 +62,6 @@ Education
     Bachelors in Computer Science, May 2005  
     - Outstanding Senior Major Award  
     - Magna Cum Laude
-
 
 Skills
 ------
