@@ -36,9 +36,9 @@ Projects
 <br>
 *   **[Selfstarter.me](http://selfstarter.me)**  
     Founder, 2012 - present  
-    -   Started DC Nightowls meetup in 2012, currently 1600+ members  
-    -   Coordinated over 160 coworking events in the DC area  
-    -   Participated in White House Social Innovation Summit with Meetup CEO Scott Heifernan  
+    -   Started the largest and most active coworking community in the nation, DC Nightowls, now with over 1600+ members  
+    -   Coordinated over 160 coworking events in the DC area through Meetup.com  
+    -   Recognized for innovation at a 2013 White House Social Innovation Summit with Meetup CEO Scott Heifernan
     -   Held events at The Capitol Complex, major coworking venues, and local businesses  
 <br>
 *   **[Association for Computing Machinery](http://acm.org)**  
