@@ -46,6 +46,6 @@ ___Mood: Happy___. The finish line was near, I was thinking less about the worko
 
 ## Conclusion
 
-I'm really quite happy with my new found mobility in exchange for 10-12 minutes every morning. My plan for the next 30 days is to increase my workout time commitment, and switch back and forth between 10 Daily Exercises and another app called "12 Minute Athlete".  My intention is to continue to strengthen my weakest areas, particularly: upper tights, gluts, and abs.  
+I'm excited with my new found mobility in exchange for 10-12 minutes every morning. My plan for the next 30 days is to increase my workout time commitment, and switch back and forth between 10 Daily Exercises and another app called "12 Minute Athlete".  My intention is to continue to strengthen my weakest areas, particularly: upper tights, gluts, and abs.  
 
-If you made it this far and want to connect with me, I highly encourage you to do so.  If you're not intentially doing several movements a day already, I'll say from experience, start now and your body will thank you and reward you in 30 days.  Imagine if we continue to do this for a year, or 5 years? I don't want to speak for everyone, but I bet I'll be winning a lot of Tri-Hackathons.
+If you made it this far and want to connect with me, please do!  If you're not intentionally doing several movements a day already, I'll say from experience, start now and your body will thank you and reward you in 30 days.  Imagine if we continue to do this for a year, or 5 years? I don't want to speak for everyone, but I bet I'll be winning a lot of Tri-Hackathons.
