@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web Scraping: Getting Data from Awfully Complex Websites"
-description: "In this article, you will learn about some tools for scraping and parsing data from websites with Ruby, Capybara, Nokogiri, Firefox, and PhantomJS.  You will then try out a script that does site scraping by launching a separate web browser.  Next up, we'll launch a headless browser to do the same thing.  Finally, we'll wrap it up in a server side sinatra app."
+description: "A tutorial demonstrating web scrapping of MindBodyOnline client webpages"
 modified: 2014-05-29
 tags: [web scraping, data parsing, ruby, sinatra, capybara, nokogiri, phantomjs, firefox, watir-webdriver, poltergeist]
 comments: true

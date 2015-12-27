@@ -1,7 +1,7 @@
 title:            Conkuer
-description:      Andrew Conklin's personal page covering technical explorations, professional ambitions, and community activity.
-#url:              http://0.0.0.0:4000
-url:              http://conkuer.com
+description:      Creative Insights in Software Development, Community Building, and Ongoing Learnings from technical entrepreneur Andrew Conklin.
+url:              http://0.0.0.0:4000
+#url:              http://conkuer.com
 #url:              http://adconk.github.io
 disqus_shortname:
 
@@ -9,15 +9,15 @@ disqus_shortname:
 owner:
   name:           Andrew Conklin
   avatar:         bio-photo.jpg
-  bio:            "healthy living activator, self-starter, coder."
-  email:          andrew@routeam.com
+  bio:            technical entrepreneur, activator of healthy lifestyles
+  email:          andrew@conkuer.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: adconk
   facebook:
   github: adconk
   stackoverflow:
   linkedin: adconk
-  instagram:
+  instagram: adconk
   lastfm:
   tumblr:
   pinterest:
@@ -59,8 +59,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
-
+  enable_coderay: false
   coderay:
     coderay_line_numbers:
     coderay_line_numbers_start: 1

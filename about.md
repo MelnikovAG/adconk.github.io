@@ -8,6 +8,4 @@ modified: 5-13-2014
 comments: true
 image:
   feature: header.jpg
-  #credit:
-  #creditlink:
 ---

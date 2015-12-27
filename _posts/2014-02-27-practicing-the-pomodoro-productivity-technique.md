@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Practicing the Pomodoro Technique
-description: "Presentation and timeboxing at UberOffices."
+description: "Presentation and timeboxing at MakeOffices"
 modified: 2014-02-27
 tags: [productivity, timeboxing, pomodoro]
 comments: true

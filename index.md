@@ -1,9 +1,7 @@
 ---
 layout: home
-description: ""
-tags: [tag1,tag2,tag3]
+description: "Creative Insights in Software Development, Community Building, and Ongoing Learnings from technical entrepreneur Andrew Conklin."
+tags: [technical entrepreneur, andrew conklin, ruby on rails, python, data science, computer science, software architect]
 image:
   feature: header.jpg
-  #credit: Texture Lovers
-  #creditlink: http://texturelovers.com
 ---

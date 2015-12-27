@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My 30 Day Mobility Challenge (10 minute workouts everyday)"
-description: "I was a sporadic mover. Now, I'm a daily exerciser. During my personal 30 day challenge, I was reminded of the powerful impact a simple set movements can make on the health of my body and mind."
+title: "My 30 Day Mobility Challenge"
+description: "10 minute workouts everyday"
 modified: 2014-07-27
 tags: [exercise, workouts, feeling better, have more energy, daily routine]
 comments: true
