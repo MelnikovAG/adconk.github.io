@@ -21,7 +21,7 @@ Three characteristics were key to our success:
 
 ### What is the Emotional Cycle of Change?
 
-It's a model devised by Don Kelley and Daryl Conner in the '70s, that expresses what we typically experience when we take on a new project, from start to finish, or when we often encounter failure in between.  
+It's a model devised by Don Kelley and Daryl Conner in the '70s, that expresses what we typically experience when we take on a new project, from start to finish, or when we encounter failure in between.  
 <br />
 The stages are:  
 
