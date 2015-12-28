@@ -27,7 +27,7 @@ Current
     Technical Entrepreneur, 2014 - present  
     Helping projects strategically grow through technical expertise.
     -   Web Application Development for LA based and DC based Startups
-    -   Tech Community Building for NYC based Non-Profit
+    -   Tech Community Building for NYC based Non-Profit  
 <br>
 *   **[Data Community DC](https://datacommunitydc.org)**  
     Board Member, 2015 - present  
