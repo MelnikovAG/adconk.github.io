@@ -26,13 +26,13 @@ Current
 *   **[Conkuer](https://conkuer.com)**  
     Technical Entrepreneur, 2014 - present  
     Helping projects strategically grow through technical expertise.
-    -   Web Application Development for LA based and DC based Startups
-    -   Tech Community Building for NYC based Non-Profit  
+    -   Web application development for LA based and DC based startups
+    -   Tech community building for NYC based non-profit  
 <br>
 *   **[Data Community DC](https://datacommunitydc.org)**  
     Board Member, 2015 - present  
     Creating a truly open and welcoming community of people who produce, consume, analyze, and work with data.
-    -   Program Lead for DC2 Digital Nomads
+    -   Program Lead for DC2 Digital Nomads meetup
 <br>
 
 Past
