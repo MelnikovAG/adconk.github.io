@@ -32,7 +32,7 @@ The stages are:
 5. Completion  
 
 <a href="https://www.mindtools.com/pages/article/kelley-conner-cycle.htm">
-<img src="{{ site.url }}/images/emotional-cycle-of-change.jpg" alt="Emotional Cycle of Change" />
+<img src="/images/emotional-cycle-of-change.jpg" alt="Emotional Cycle of Change" />
 </a>
 
 

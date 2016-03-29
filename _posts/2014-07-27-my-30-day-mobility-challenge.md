@@ -22,13 +22,13 @@ Hi, I'm Andrew, a software engineer by trade, cofounder of a fitness tech busine
 * Keep a journal of days completed
 * I personally used [10 Daily Exercises on Google Play](https://play.google.com/store/apps/details?id=com.playsimple.fitnessapp&hl=en) as it did all these things for me  
 
-* [<img src="{{ site.url }}/images/dailyexercises0.png" width="200px" alt="10 Daily Exercises" />](https://play.google.com/store/apps/details?id=com.playsimple.fitnessapp&hl=en)
+* [<img src="/images/dailyexercises0.png" width="200px" alt="10 Daily Exercises" />](https://play.google.com/store/apps/details?id=com.playsimple.fitnessapp&hl=en)
 
 * Optional: a few motivating wakeup songs to begin the workout.  My favorite was "Here comes the Sun" by The Beatles on vinyl.
 
 ## Results
 
-<img src="{{ site.url }}/images/dailyexercises1.png" width="200px" alt="10 Daily Exercises" />  <img src="{{ site.url }}/images/dailyexercises2.png" width="200px" alt="10 Daily Exercises" />  
+<img src="/images/dailyexercises1.png" width="200px" alt="10 Daily Exercises" />  <img src="/images/dailyexercises2.png" width="200px" alt="10 Daily Exercises" />  
   \\
 I did it! (of course). Ranging from June 26th to July 26th, I did 10 daily exercises for 1 month straight.  The biggest improvement I noticed was how much quicker my body was reacting to the world.  My legs felt increasingly mobile and energetic compared to the past several years.  My knees and back would crack a bit less each subsequent morning.  My mind was also sharper and ready to go.  I was most surprised that such a light workout could have such profound effect on my lifestyle.
 
